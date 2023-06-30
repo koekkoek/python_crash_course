@@ -1,0 +1,4 @@
+In Python you can open text documents
+In Python you can analyze text documents
+In Python you can loop through documents
+In Python you can do almost everything you want
